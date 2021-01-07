@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="C:/Users/pramo/IdeaProjects/UOBAPIAutomation(failed)" verbose="0">
+    <classes>
+      <class name="demo.Tests_POST">
+        <methods>
+          <include name="step2"/>
+          <include name="readALlforme"/>
+          <include name="RNDStep"/>
+        </methods>
+      </class> <!-- demo.Tests_POST -->
+    </classes>
+  </test> <!-- C:/Users/pramo/IdeaProjects/UOBAPIAutomation(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

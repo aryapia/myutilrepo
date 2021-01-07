@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/pramo/IdeaProjects/UOBAPIAutomation"><classes><class name="demo.Tests_POST"><methods><include name="step1"/><include name="step2"/><include name="step3"/><include name="step4"/><include name="step5"/><include name="step6"/><include name="step7"/><include name="step8"/><include name="step9"/><include name="step10"/><include name="RNDStep"/></methods></class></classes></test></suite>
